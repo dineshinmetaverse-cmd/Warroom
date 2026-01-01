@@ -109,7 +109,7 @@ export default function WarroomDifference() {
                     className="text-center mt-12"
                 >
                     <a
-                        href="https://discord.com/invite/qnpfuETS"
+                        href="https://forms.gle/gLG6HF2XfUkoB83MA"
                         className="inline-block px-10 py-3 bg-gradient-to-r from-yellow-400 to-orange-500 text-black font-bold rounded-full shadow-lg hover:shadow-xl transition-shadow"
                     >
                         Join WarRoom Today
