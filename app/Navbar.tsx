@@ -211,7 +211,7 @@ shadow-[0_10px_30px_-12px_rgba(255,255,255,0.12)]"
                 animate={{ opacity: 1 }}
               >
                 <a
-                  href="https://discord.com/invite/qnpfuETS"
+                  href="https://forms.gle/gLG6HF2XfUkoB83MA"
                   className="block text-center py-4 rounded-full bg-gradient-to-r from-yellow-400 to-orange-500 text-black font-bold shadow-lg hover:shadow-orange-500/20 transition-all active:scale-95"
                   onClick={toggleMenu}
                 >
