@@ -15,7 +15,7 @@ export default function Footer() {
           <a href="https://x.com/ict_dinesh/status/1986090000153448690" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
             <FaXTwitter size={20} className="md:w-6 md:h-6" />
           </a>
-          <a href="https://discord.gg/qnpfuETS" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
+          <a href="https://discord.gg/SAWNXzkMDh" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
             <PiDiscordLogoFill size={22} className="md:w-6 md:h-6" />
           </a>
           <a href="https://instagram.com/ict_dinesh" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
