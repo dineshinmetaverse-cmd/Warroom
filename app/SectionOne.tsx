@@ -292,11 +292,11 @@ export default function HeroOne() {
               <Instagram className="w-5 h-5 sm:w-6 sm:h-6" />
             </HoverableIcon>
             <div className="w-px h-5 bg-white/10" />
-            <HoverableIcon href="https://x.com/ict_dinesh/status/1986090000153448690" label="TWITTER / X">
+            <HoverableIcon href="https://x.com/ict_dinesh" label="TWITTER / X">
               <TwitterIcon size={20} />
             </HoverableIcon>
             <div className="w-px h-5 bg-white/10" />
-            <HoverableIcon href="https://discord.gg/qnpfuETS" label="DISCORD">
+            <HoverableIcon href="https://discord.gg/SAWNXzkMDh" label="DISCORD">
               <DiscordIcon size={22} />
             </HoverableIcon>
             <div className="w-px h-5 bg-white/10" />
