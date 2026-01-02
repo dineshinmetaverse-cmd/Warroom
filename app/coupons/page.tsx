@@ -26,6 +26,16 @@ Weekly Payouts | No activation Fee`,
     affiliateUrl: "https://checkout.blueguardianfutures.com/ref/63/",
     logoUrl: "/bluee.jpg"
   },
+   {
+    companyName: "Lucid Trading",
+    discount: "50% OFF",
+    couponCode: "DINESH",
+        description: `Max Allocation $750K
+    Tradovate, Ninja Trader, Sierra Chart
+FREE EVAL at Payout | No activation Fee`,
+    affiliateUrl: "https://checkout.blueguardianfutures.com/ref/63/",
+    logoUrl: "/lucid.jpg"
+  },
   {
     companyName: "Funding Ticks",
     discount: "35% OFF",
