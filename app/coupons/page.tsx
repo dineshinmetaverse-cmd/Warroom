@@ -33,7 +33,7 @@ Weekly Payouts | No activation Fee`,
         description: `Max Allocation $750K
     Tradovate, Ninja Trader, Sierra Chart
 FREE EVAL at Payout | No activation Fee`,
-    affiliateUrl: "https://checkout.blueguardianfutures.com/ref/63/",
+    affiliateUrl: "https://lucidtrading.com/ref/ictdinesh/",
     logoUrl: "/lucid.jpg"
   },
   {
