@@ -296,7 +296,7 @@ export default function HeroOne() {
               <TwitterIcon size={20} />
             </HoverableIcon>
             <div className="w-px h-5 bg-white/10" />
-            <HoverableIcon href="https://discord.gg/SAWNXzkMDh" label="DISCORD">
+            <HoverableIcon href="https://discord.gg/HavyeuEgrQ" label="DISCORD">
               <DiscordIcon size={22} />
             </HoverableIcon>
             <div className="w-px h-5 bg-white/10" />
