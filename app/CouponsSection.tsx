@@ -25,14 +25,14 @@ Weekly Payouts | No activation Fee`,
     logoUrl: "/bluee.jpg"
   },
   {
-    companyName: "Funding Ticks",
-    discount: "35% OFF",
+    companyName: "Lucid Trading",
+    discount: "50% OFF",
     couponCode: "DINESH",
-    description: `Max Allocation $300K
-    Tradovate, NinjaTrader
-Up to 40% OFF All Evaluations`,
-    affiliateUrl: "https://app.fundingticks.com/register?ref=DINESH",
-    logoUrl: "/tradify.png"
+        description: `Max Allocation $750K
+    Tradovate, Ninja Trader, Sierra Chart
+FREE EVAL at Payout | No activation Fee`,
+    affiliateUrl: "https://lucidtrading.com/ref/ictdinesh/",
+    logoUrl: "/lucid.jpg"
   },
 ]
 
