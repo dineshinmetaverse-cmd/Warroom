@@ -9,8 +9,8 @@ const coupons = [
     discount: "10% OFF",
     couponCode: "DINESH",
     description: `Manage Up to $4M
-10% OFF only First Purchase
-Get 5k Account only for 39$`,
+    10% OFF only First Purchase
+    Get 5k Account only for 39$`,
     affiliateUrl: "https://www.the5ers.com/?afmc=kll",
     logoUrl: "/5ers.jpg"
   },
