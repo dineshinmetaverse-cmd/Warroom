@@ -37,16 +37,6 @@ FREE EVAL at Payout | No activation Fee`,
     logoUrl: "/lucid.jpg"
   },
   {
-    companyName: "Funding Ticks",
-    discount: "35% OFF",
-    couponCode: "DINESH",
-    description: `Max Allocation $300K
-    Tradovate, NinjaTrader
-Up to 40% OFF All Evaluations`,
-    affiliateUrl: "https://app.fundingticks.com/register?ref=DINESH",
-    logoUrl: "/tradify.png"
-  },
-  {
     companyName: "FXReplay",
     discount: "15% OFF",
     couponCode: "FXREPLAY15",
