@@ -6,16 +6,12 @@ import { motion } from "framer-motion";
 import { IoCompass } from "react-icons/io5";
 import { FiTarget } from "react-icons/fi";
 import mentorImage from "../mentor2.png";
-import CustomCursor from "../components/customcursor";
 
 export default function AboutUsPage() {
   return (
     <>
       <Navbar />
       <div className="min-h-screen bg-black text-white relative overflow-hidden">
-         <div className="hidden md:block">
-                <CustomCursor hoverActive />
-              </div>
         {/* Background Elements */}
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(234,179,8,0.05)_0%,transparent_70%)]" />
 
