@@ -16,7 +16,7 @@ const coupons = [
   },
   {
     companyName: "BGF Futures",
-    discount: "60% OFF",
+    discount: "70% OFF",
     couponCode: "DINESH",
         description: `Max Allocation $450K
     Tradovate, Volsys
