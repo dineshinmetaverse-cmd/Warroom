@@ -73,7 +73,7 @@ const testimonials = [
   },
   {
     text: "My experience with the ICT DINESH 📈💯trading mentorship has been truly transformative. Before joining, my understanding of market structure, liquidity was very basic. But the mentorship broke everything down in a clear, step-by-step way that made complex ideas easy to understand.The lessons on liquidity concepts, PO3 models, fair value gaps, and premium–discount ranges completely changed the way I look at charts. What I liked most was that the mentor didn’t just teach strategies — he taught how to think like a  trader with logic market moves .The live sessions, trades and chart revisions helped me improve my accuracy and discipline. My confidence has grown a lot because I finally understand why price moves, not just how.Overall, this mentorship added real value to my trading journey ,in previous i have joined some ict course but ICT DINESH MENTORSHIP is a real course of ICT and i have experienced a lot and great thanks to my brother and great mentor ICT DINESH 🫂📈💯",
-    image: emoji10,
+    image: emoji1,
     name: "Soma sundaram",
     role: "War Room Student",
   },
