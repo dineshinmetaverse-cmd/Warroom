@@ -18,7 +18,7 @@ Get 5k Account only for 39$`,
   },
   {
     companyName: "BGF Futures",
-    discount: "60% OFF",
+    discount: "70% OFF",
     couponCode: "DINESH",
         description: `Max Allocation $450K
     Tradovate, Volsys
