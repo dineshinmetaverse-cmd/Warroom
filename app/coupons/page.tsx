@@ -3,8 +3,6 @@
 import { motion } from "framer-motion"
 import { CouponCard } from "@/components/ui/coupon-card"
 import { Navbar } from "../Navbar"
-import CustomCursor from "../components/customcursor"
-
 const coupons = [
    {
     companyName: "5%ers",
@@ -76,9 +74,6 @@ export default function CouponsPage() {
     <>
       <Navbar />
       <section className="relative w-full min-h-screen overflow-hidden bg-black text-white font-plusJakartaSans py-29">
-         <div className="hidden md:block">
-                <CustomCursor hoverActive />
-              </div>
       {/* Background grid */}
       <div className="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px]" />
       <div className="absolute inset-0 bg-gradient-to-b from-black via-transparent to-black" />
