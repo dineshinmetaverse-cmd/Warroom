@@ -261,7 +261,7 @@ export default function HeroOne() {
         >
           <motion.a
             whileHover={{ scale: 1.05 }}
-            href="https://forms.gle/gLG6HF2XfUkoB83MA"
+            href="#ticket"
             className="px-8 py-3.5 bg-yellow-400 text-black font-bold rounded-full text-center text-sm sm:text-base shadow-lg shadow-yellow-400/20"
           >
             Join Now
