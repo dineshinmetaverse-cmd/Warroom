@@ -14,19 +14,9 @@ const coupons = [
     affiliateUrl: "https://www.the5ers.com/?afmc=kll",
     logoUrl: "/5ers.jpg"
   },
-  {
-    companyName: "BGF Futures",
-    discount: "70% OFF",
-    couponCode: "DINESH",
-        description: `Max Allocation $450K
-    Tradovate, Volsys
-Weekly Payouts | No activation Fee`,
-    affiliateUrl: "https://checkout.blueguardianfutures.com/ref/63/",
-    logoUrl: "/bluee.jpg"
-  },
-  {
+   {
     companyName: "Lucid Trading",
-    discount: "50% OFF",
+    discount: "40% OFF",
     couponCode: "DINESH",
         description: `Max Allocation $750K
     Tradovate, Ninja Trader, Sierra Chart
@@ -34,6 +24,17 @@ FREE EVAL at Payout | No activation Fee`,
     affiliateUrl: "https://lucidtrading.com/ref/ictdinesh/",
     logoUrl: "/lucid.jpg"
   },
+  {
+    companyName: "BGF Futures",
+    discount: "60% OFF",
+    couponCode: "DINESH",
+        description: `Max Allocation $450K
+    Tradovate, Volsys
+Weekly Payouts | No activation Fee`,
+    affiliateUrl: "https://checkout.blueguardianfutures.com/ref/63/",
+    logoUrl: "/bluee.jpg"
+  },
+ 
 ]
 
 const container = {
