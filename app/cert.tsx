@@ -25,6 +25,8 @@ export default function CertificateGallery() {
     '/C2.jpg',
     '/C3.jpg',
     '/C4.png',
+    '/C5.png',
+    '/C6.png',
   ];
 
   return (
