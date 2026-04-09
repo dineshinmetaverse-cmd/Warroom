@@ -12,12 +12,11 @@ export default function CertificateGallery() {
     '/sudhagarl.png',
     '/surendhar.jpg',
     '/karthick.jpeg',
-
     '/cert7.jpeg',
-
+    '/C6.jpg',
     '/cert5.png',
     '/cert6.jpeg',
-
+    '/C5.jpg',
     '/cert10.png',
     '/cert11.jpg',
     '/cert12.png',
@@ -25,8 +24,7 @@ export default function CertificateGallery() {
     '/C2.jpg',
     '/C3.jpg',
     '/C4.png',
-    '/C5.png',
-    '/C6.png',
+  
   ];
 
   return (
