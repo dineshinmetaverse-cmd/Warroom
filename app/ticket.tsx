@@ -1,10 +1,19 @@
 "use client";
 
 import React, { useState } from "react";
-import { Target, UserPlus } from "lucide-react";
+import { Target, UserPlus, TrendingUp, Shield, Zap, BarChart3, Clock, Users } from "lucide-react";
 
 const Ticket: React.FC = () => {
   const [flippedCards, setFlippedCards] = useState<number[]>([]);
+  
+  // Ticket.tsx
+const Ticket = () => {
+  return (
+    <section id="ticket">
+      {/* your ticket content */}
+    </section>
+  );
+};
 
   const toggleFlip = (index: number) => {
     setFlippedCards(prev =>
@@ -13,7 +22,7 @@ const Ticket: React.FC = () => {
   };
 
   return (
-    <div id="ticket" className="min-h-screen bg-gradient-to-br from-black via-zinc-950 to-black text-white">
+    <div className="min-h-screen bg-gradient-to-br from-black via-zinc-950 to-black text-white">
 
       {/* HERO */}
       <div className="relative overflow-hidden">
@@ -84,7 +93,7 @@ const Ticket: React.FC = () => {
                   ))}
                 </div>
 
-                
+                <a
                   href="https://forms.gle/gLG6HF2XfUkoB83MA"
                   target="_blank"
                   className="w-full py-4 bg-gradient-to-r from-amber-500 via-orange-500 to-amber-600 hover:from-amber-600 hover:via-orange-600 hover:to-amber-700 text-black font-bold text-lg rounded-xl transition-all duration-300 shadow-xl hover:scale-105 inline-block text-center"
