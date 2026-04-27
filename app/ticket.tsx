@@ -30,7 +30,7 @@ const Ticket: React.FC = () => {
             </div>
 
             <h1 className="text-6xl md:text-8xl font-bold mb-5 leading-none">
-              <span className="block">1-1</span>
+              <span className="block">Personal</span>
               <span className="block bg-gradient-to-r from-amber-400 via-orange-500 to-amber-600 bg-clip-text text-transparent">
                 Mentorship
               </span>
