@@ -5,15 +5,6 @@ import { Target, UserPlus, TrendingUp, Shield, Zap, BarChart3, Clock, Users } fr
 
 const Ticket: React.FC = () => {
   const [flippedCards, setFlippedCards] = useState<number[]>([]);
-  
-  // Ticket.tsx
-const Ticket = () => {
-  return (
-    <section id="ticket">
-      {/* your ticket content */}
-    </section>
-  );
-};
 
   const toggleFlip = (index: number) => {
     setFlippedCards(prev =>
