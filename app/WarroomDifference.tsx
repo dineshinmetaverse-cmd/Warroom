@@ -19,7 +19,7 @@ const benefits = [
         color: "from-blue-400/20 to-blue-600/5",
   },
   {
-    title: "Personal 1:1 Mentorship",
+    title: "Personal Mentorship",
     description: "Direct feedback on your trades. We identify and fix your specific weaknesses to stop result fluctuations.",
     icon: <Target className="w-8 h-8 text-orange-400" />,
     color: "from-orange-500/20 to-red-500/20"
