@@ -16,7 +16,7 @@ const coupons = [
   },
    {
     companyName: "Lucid Trading",
-    discount: "40% OFF",
+    discount: "50% OFF",
     couponCode: "DINESH",
         description: `Max Allocation $750K
     Tradovate, Ninja Trader, Sierra Chart
@@ -26,7 +26,7 @@ FREE EVAL at Payout | No activation Fee`,
   },
   {
     companyName: "BGF Futures",
-    discount: "60% OFF",
+    discount: "35% OFF",
     couponCode: "DINESH",
         description: `Max Allocation $450K
     Tradovate, Volsys
