@@ -24,6 +24,16 @@ FREE EVAL at Payout | No activation Fee`,
     affiliateUrl: "https://lucidtrading.com/ref/ictdinesh/",
     logoUrl: "/lucid.jpg"
   },
+     {
+    companyName: "Tradeify",
+    discount: "40% OFF",
+    couponCode: "DINESH",
+        description: `Max Allocation $750K
+    Tradovate, Wealth charts, Tradesea
+Daily Payout | No activation Fee`,
+    affiliateUrl: "https://tradeify.co/?ref=DINESH",
+    logoUrl: "/Tradeify.png"
+  },
   {
     companyName: "BGF Futures",
     discount: "35% OFF",
