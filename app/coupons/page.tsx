@@ -20,7 +20,7 @@ Get 5k Account only for 39$`,
     couponCode: "DINESH",
         description: `Max Allocation $750K
     Tradovate, Ninja Trader, Sierra Chart
-FREE EVAL at Payout | No activation Fee`,
+Instant activation | No activation Fee`,
     affiliateUrl: "https://lucidtrading.com/ref/ictdinesh/",
     logoUrl: "/lucid.jpg"
   },
