@@ -20,7 +20,7 @@ const coupons = [
     couponCode: "DINESH",
         description: `Max Allocation $750K
     Tradovate, Ninja Trader, Sierra Chart
-Instant activation after passing | No activation Fee`,
+Instant activation | No activation Fee`,
     affiliateUrl: "https://lucidtrading.com/ref/ictdinesh/",
     logoUrl: "/lucid.jpg"
   },
