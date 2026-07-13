@@ -32,7 +32,7 @@ Instant activation after passing | No activation Fee`,
     Tradovate, Wealth charts, Tradesea
 Daily Payout | No activation Fee`,
     affiliateUrl: "https://tradeify.co/?ref=DINESH",
-    logoUrl: "/lucid.jpg"
+    logoUrl: "/Tradeify.png"
   },
   {
     companyName: "BGF Futures",
