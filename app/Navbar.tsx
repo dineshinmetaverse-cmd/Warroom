@@ -116,7 +116,7 @@ shadow-[0_10px_30px_-12px_rgba(255,255,255,0.12)]"
           transition={{ duration: 0.4, delay: 0.25 }}
         >
           <a
-            href="https://forms.gle/gLG6HF2XfUkoB83MA"
+            href="#ticket"
             className="relative inline-flex items-center justify-center px-6 py-2.5 text-sm font-bold text-black bg-gradient-to-r from-yellow-400 to-orange-500 rounded-full hover:shadow-[0_0_20px_-5px_rgba(234,179,8,0.5)] transition-all duration-300 group overflow-hidden"
           >
             <span className="relative z-10">JOIN NOW</span>
@@ -211,7 +211,7 @@ shadow-[0_10px_30px_-12px_rgba(255,255,255,0.12)]"
                 animate={{ opacity: 1 }}
               >
                 <a
-                  href="https://forms.gle/gLG6HF2XfUkoB83MA"
+                  href="#ticket"
                   className="block text-center py-4 rounded-full bg-gradient-to-r from-yellow-400 to-orange-500 text-black font-bold shadow-lg hover:shadow-orange-500/20 transition-all active:scale-95"
                   onClick={toggleMenu}
                 >
