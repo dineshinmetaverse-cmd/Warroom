@@ -26,7 +26,7 @@ Instant activation | No activation Fee`,
   },
     {
     companyName: "TradersLaunch",
-    discount: "20%  OFF",
+    discount: "20% OFF",
     couponCode: "DINESH",
         description: `Max Allocation 2M
     Volumetric, quant tower
