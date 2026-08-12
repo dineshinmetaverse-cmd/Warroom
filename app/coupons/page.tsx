@@ -24,6 +24,17 @@ Instant activation | No activation Fee`,
     affiliateUrl: "https://lucidtrading.com/ref/ictdinesh/",
     logoUrl: "/lucid.jpg"
   },
+   
+    {
+    companyName: "Traders Launch",
+    discount: "20% OFF",
+    couponCode: "DINESH",
+        description: `Max Allocation 2M
+    Volumetric, quant tower
+Daily Payout | No activation Fee`,
+    affiliateUrl: "https://app.traderslaunch.com/auth/sign-up?ref=3f48cb11e073dcc750064294",
+    logoUrl: "/Traderslaunch.png"
+  },
      {
     companyName: "Tradeify",
     discount: "40% OFF",
