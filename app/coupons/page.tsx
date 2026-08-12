@@ -26,7 +26,7 @@ Instant activation | No activation Fee`,
   },
    
     {
-    companyName: "Traders Launch",
+    companyName: "TradersLaunch",
     discount: "20% OFF",
     couponCode: "DINESH",
         description: `Max Allocation 2M
