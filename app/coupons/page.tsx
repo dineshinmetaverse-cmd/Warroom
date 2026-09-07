@@ -16,7 +16,7 @@ Get 5k Account only for 39$`,
   },
       {
     companyName: "Lucid Trading",
-    discount: "50% OFF",
+    discount: "40% OFF",
     couponCode: "DINESH",
         description: `Max Allocation $750K
     Tradovate, Ninja Trader, Sierra Chart
@@ -27,7 +27,7 @@ Instant activation | No activation Fee`,
    
     {
     companyName: "TradersLaunch",
-    discount: "20% OFF",
+    discount: "30% OFF",
     couponCode: "DINESH",
         description: `Max Allocation 2M
     Volumetric, quant tower
@@ -37,7 +37,7 @@ Daily Payout | No activation Fee`,
   },
      {
     companyName: "Tradeify",
-    discount: "40% OFF",
+    discount: "50% OFF",
     couponCode: "DINESH",
         description: `Max Allocation $750K
     Tradovate, Wealth charts, Tradesea
