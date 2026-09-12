@@ -67,22 +67,22 @@ const Ticket: React.FC = () => {
               {/* RIGHT */}
               <div className="bg-zinc-950 p-12">
                 <div className="space-y-6 mb-10">
-                  {[
-                    "ICT Basic To Advance",
-                     "Orderflow Mastery",
-                    "Live Sessions",
-                    "Private Community Discord Access",
-                    "Class Recordings",
-                    "Weekly Reviews & Feedback"          
-                  ].map((item, i) => (
-                    <div key={i} className="flex items-start gap-4">
-                      <div className="w-6 h-6 bg-gradient-to-br from-amber-500 to-orange-600 rounded-lg flex items-center justify-center mt-0.5">
-                        <div className="w-2 h-2 bg-white rounded-full"></div>
-                      </div>
-                      <span className="text-zinc-400 text-lg">{item}</span>
-                    </div>
-                  ))}
-                </div>
+  {[
+    "ICT Basic To Advance",
+    "Orderflow Mastery",
+    "Live Sessions",
+    "Private Community Discord Access",
+    "Class Recordings",
+    "Weekly Reviews & Feedback"
+  ].map((item, i) => (
+    <div key={i} className="flex items-start gap-4">
+      <div className="w-6 h-6 bg-gradient-to-br from-amber-500 to-orange-600 rounded-lg flex items-center justify-center mt-0.5">
+        <div className="w-2 h-2 bg-white rounded-full"></div>
+      </div>
+      <span className="text-zinc-400 text-lg">{item}</span>
+    </div>
+  ))}
+</div>
 
                 <a
                   href="https://forms.gle/gLG6HF2XfUkoB83MA"
