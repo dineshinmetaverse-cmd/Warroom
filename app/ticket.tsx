@@ -69,11 +69,12 @@ const Ticket: React.FC = () => {
                 <div className="space-y-6 mb-10">
                   {[
                     "ICT Basic To Advance",
-                    "Guidance To Profitable Trading",
+                     "Orderflow Mastery"
+                    "Live Sessions",
                     "Private Community Discord Access",
                     "Class Recordings",
-                    "Weekly Reviews & Feedback",
-                    "All Future Updates"
+                    "Weekly Reviews & Feedback"
+                    
                   ].map((item, i) => (
                     <div key={i} className="flex items-start gap-4">
                       <div className="w-6 h-6 bg-gradient-to-br from-amber-500 to-orange-600 rounded-lg flex items-center justify-center mt-0.5">
